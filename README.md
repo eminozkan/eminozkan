@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminozkan" alt="eminozkan" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **[MoneyXChange](https://github.com/Mindscape-Dev/moneyxchange-backend)**
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Java**
 
